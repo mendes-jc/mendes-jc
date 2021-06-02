@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer and a former systems analyst.
 
-### What I work with ?
+### What do I work with ?
 
 Today, i'm working with Web Development, using **Node.js** and **React**, mostly with **TypeScript**.
 
