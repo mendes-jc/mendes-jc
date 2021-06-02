@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile!
+
+My name is Júlio César and i'm a passionate software engineer.
 
 <!--
 **mendes-jc/mendes-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
