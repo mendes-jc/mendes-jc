@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer and a former systems analyst.
 
-### What do I work with ?
+### What do I work with?
 
 Today, i'm working with Web Development, using **Node.js** and **React**, mostly with **TypeScript**.
 
@@ -10,13 +10,13 @@ Both **MySQL** and **MongoDB** databases are friends of mine ( Even though I lov
 
 As I work in a **microservices** environment, I'm very familiar with messaging ( I use **RabbitMQ** ).
 
-### What I am studying ?
+### What I am studying?
 
 I'm venturing into **Golang** and working on to become a better **Software Architect**
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*_wxwNuxszA6vwQIUMbF-fw.gif&f=1&nofb=1" alt="golang" width="160px"/>
 
-### What is the most important thing to me ?
+### What is the most important thing to me?
 
 People. People come before Code or anything else.
 
