@@ -1,6 +1,6 @@
 ## Hello ${name}, welcome to my profile! 😃
 
-I'm a passionate software engineer and a former systems analyst.
+I'm a passionate Software Engineer and a former systems analyst.
 
 ### What I work with ?
 
