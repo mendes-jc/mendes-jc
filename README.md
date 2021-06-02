@@ -24,11 +24,17 @@ If I do impact someone's life in a positive way, my mission is done.
 
 I alwas try to treat people with respect and kindness, no matter what is their position on a company or society.
 
+### Where can you find me?
+
+Easy, here's my [Linkedin](https://www.linkedin.com/in/julio-mendes/).
+
+Or if you prefer, mail me: **mendes_jc@outlook.com**.
+
 ### Fun facts
 
 - I love programming, but my heart is divided between code and music 🎵. It's easy to find me playing some instrument and singing.
 - I started my journey on the Software Development world with **Games** 🎮. Everything started when I discovered, many years ago, that it was possible to play GTA San Andreas online and better, I could create my own server!
-  After that, i dived into programming ( knowing NOTHING ) and started my knowlege journey, starting with **Pawn language** (used in GTA SA-MP servers), going through Unity3D to develop my own games ( it was simple games, but it was AWESOME to do! ) and finally coming to this Web world.
+  After that, i dived into programming ( knowing NOTHING ) and started my knowlege journey, on the very beginning with **Pawn** language (used in GTA SA-MP servers), going through **Unity3D** to develop my own games ( it was simple games, but it was AWESOME to do! ) and finally coming to the Web universe.
 
 <!--
 **mendes-jc/mendes-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
