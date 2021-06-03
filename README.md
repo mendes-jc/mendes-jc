@@ -10,7 +10,7 @@ Both **MySQL** and **MongoDB** databases are friends of mine ( Even though I lov
 
 As I work in a **microservices** environment, I'm very familiar with messaging ( I use **RabbitMQ** ).
 
-### What I am studying?
+### What am I studying?
 
 I'm venturing into **Golang** and working on to become a better **Software Architect**
 
