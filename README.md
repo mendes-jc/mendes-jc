@@ -1,28 +1,12 @@
 ## Hello ${name}, welcome to my profile! 😃
 
-I'm a passionate Software Engineer and a former systems analyst.
-
-### What do I work with?
-
-Today, i'm working with Web Development, using **Node.js** and **React**, mostly with **TypeScript**.
-
-Both **MySQL** and **MongoDB** databases are friends of mine ( Even though I love MongoDB a bit more haha 💚 ).
-
-As I work in a **microservices** environment, I'm very familiar with messaging ( I use **RabbitMQ** ).
-
-### What am I studying?
-
-I'm venturing into **Golang** and working on to become a better **Software Architect**
-
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1600%2F1*_wxwNuxszA6vwQIUMbF-fw.gif&f=1&nofb=1" alt="golang" width="160px"/>
+I'm a passionate Game Engineer, but I have experience working as a Full-Stack Developer and also as a Systems Analyst.
 
 ### What is the most important thing to me?
 
 People. People come before Code or anything else.
 
-If I do impact someone's life in a positive way, my mission is done.
-
-I alwas try to treat people with respect and kindness, no matter what is their position on a company or society.
+My mission is to have a positive impact on people's lifes. Today, I like to achieve that thourgh the games I work with.
 
 ### Where can you find me?
 
